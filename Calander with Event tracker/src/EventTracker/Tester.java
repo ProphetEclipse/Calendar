@@ -7,7 +7,7 @@ public class Tester {
 		Calendar myCalendar = new Calendar(10,26,1995);
 		EventInfo myEvent = new EventInfo("Birthday",10,26,1995);
 		EventHandler handler = new EventHandler();
-		//wow we should be meemes
+		
 		handler.checkDay(myCalendar,myEvent);
 		}	
 }
