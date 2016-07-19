@@ -8,7 +8,7 @@ public class Tester {
 		EventInfo myEvent = new EventInfo("Birthday",10,26,1995);
 		EventHandler handler = new EventHandler();
 		
-		
+		//wow the memes are real
 		handler.checkDay(myCalendar,myEvent);
 		}	
 }
